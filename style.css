@@ -15,7 +15,39 @@ a{
 img.primera{
     height: 200px;
     width: 200px;
+    float:left;
+    margin-right: 10px;
 }
 div.fotosteve{
     background-color: white;
+}
+h2{
+    background-color: blue;
+    color:blue
+}
+p{
+    font-size: small;
+}
+h3{
+    background-color: red;
+    color:red
+}
+img.segunda{
+    float: right;
+    margin-left: 10px;
+}
+div.mac{
+    background-color: lightblue;
+}
+footer{
+    text-align: center;
+}
+div.footer{
+    background-color: pink;
+}
+p.primertexto{
+    color: blue;
+}
+p.segundotexto{
+    color: red;
 }
