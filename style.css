@@ -1,0 +1,21 @@
+body{
+    background-color: orange;
+}
+h1.steve{
+    text-align: center;
+    color:white
+}
+p.menu{
+    text-align: center;
+    background-color: lime;
+}
+a{
+    color:green;
+}
+img.primera{
+    height: 200px;
+    width: 200px;
+}
+div.fotosteve{
+    background-color: white;
+}
